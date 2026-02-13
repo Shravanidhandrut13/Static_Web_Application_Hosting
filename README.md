@@ -88,6 +88,3 @@ over HTTPS.
 
 ------------------------------------------------------------------------
 
-## 🔗 Outcome
-
-The website was successfully deployed and accessible globally via CloudFront URL. Direct S3 access was restricted, ensuring secure and scalable cloud architecture implementation.
