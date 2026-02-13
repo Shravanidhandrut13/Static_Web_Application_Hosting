@@ -15,9 +15,8 @@ management.
 
 ## 🏗️ Architecture
 
-Client (Browser)\
-→ Amazon CloudFront (CDN)\
-→ Amazon S3 (Static Content Storage)
+Client (Browser) → Amazon CloudFront (CDN) → Amazon S3 (Static Content Storage)
+<img width="900" height="443" alt="image" src="https://github.com/user-attachments/assets/1de5ce69-5362-4771-bcb8-98cd87eac820" />
 
 ------------------------------------------------------------------------
 
