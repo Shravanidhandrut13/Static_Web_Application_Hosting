@@ -88,6 +88,6 @@ over HTTPS.
 
 ------------------------------------------------------------------------
 
-## 🔗 Live Demo
+## 🔗 Outcome
 
-Accessible via CloudFront domain URL (generated after deployment).
+The website was successfully deployed and accessible globally via CloudFront URL. Direct S3 access was restricted, ensuring secure and scalable cloud architecture implementation.
